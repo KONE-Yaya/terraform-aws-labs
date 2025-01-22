@@ -34,3 +34,9 @@ Before starting, ensure you have the following:
    git clone https://github.com/KONE-Yaya/terraform-aws-labs.git
    cd aws-labs-terraform
    ```
+
+---
+
+## 📜 **Credits** 
+
+This project is inspired by the remarkable work of **Dr. Thyago Mota** & **João Marcelo Uchôa de Alencar** **https://github.com/thyagomota/aws-labs.git**. I use their labs as a reference. Unlike them, who perform manual operations on AWS, I use Terraform to automate these tasks and make them easy to reproduce.
