@@ -1,5 +1,8 @@
 # terraform aws lab-01
 
+## Architecture
+![target architecture](images/tf-aws-lab-01-architecture.jpeg)
+
 ## Requirements
 
 ### Having Terraform installed / Install Terraform
